@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - 🎯 Passionate Software Engineer eager to break into the industry and build impactful solutions.  
 - 💼 Freelancing: I help individuals and businesses by creating **modern, responsive websites** using the latest technologies.  
 - 📊 Data Enthusiast: I enjoy **transforming raw data into insights** and visualizations that drive smarter decisions.  
@@ -12,7 +12,7 @@
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/omarmansourahmed" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
